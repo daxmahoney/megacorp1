@@ -1,3 +1,7 @@
 partner list
+<<<<<<< HEAD
 SalesInc
+=======
+
+>>>>>>> c67c042 (F: something)
 TheStartup
